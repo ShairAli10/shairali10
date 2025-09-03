@@ -1,25 +1,42 @@
 <h1 align="center">Hi 👋, I'm Shair Ali Yamin</h1>
-<h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">Full Stack Developer | 6+ Years of Experience | Pakistan</h3>
 
-I'm a dedicated and enthusiastic Full Stack Developer, currently focusing on building scalable, high-performance applications using modern web technologies. With expertise in both front-end and back-end development, I strive to deliver quality solutions that meet user and business needs.
+I’m a passionate and results-driven Full Stack Developer with over 6 years of professional experience in designing, developing, and deploying scalable web applications. I hold a Bachelor’s degree in Computer Science and have worked extensively across both frontend and backend domains, delivering high-quality solutions tailored to business and user needs.  
 
-<br />
+---
 
-- 🔭 I’m currently working on **Full Stack Development** with  **Laravel**, **React.js**, **Next.js**, and **Node.js**.
-  
-- 🌱 I’m expanding my knowledge of **Advanced Next.js**, **API Development**, and **Web Performance Optimization**.
+### 🚀 What I Do
+- **Frontend Development:**  
+  Skilled in modern frameworks and libraries such as **Next.js, React.js, Vue.js, Angular.js**, with strong expertise in styling tools like **Tailwind CSS, Styled Components, Material UI**, and state management using **Redux Toolkit & React Context**.  
 
-- 👯 I’m eager to collaborate on **Full Stack Projects**, where I can contribute my skills and learn from others in the community.
+- **Backend Development:**  
+  Proficient in **Node.js, Express.js, Laravel**, with hands-on experience in **Socket.io**, **Redis**, and databases including **MongoDB, PostgreSQL, SQLite, and MS SQL**.  
 
-- 🤔 I’m seeking advice on **scaling complex applications**.
+- **Architectures & Patterns:**  
+  Familiar with **MVC, monolithic, and microservices architectures**, enabling me to build robust, scalable, and maintainable applications.  
 
-- 💬 Feel free to ask me about **Laravel, React.js, Node.js, Next.js, MongoDB, MySql**, and Full Stack Development in general.
+- **Cloud & Deployment:**  
+  Experienced in managing deployments on **AWS**, including services like **S3 (hosting & storage)**, **Elastic Beanstalk**, **CloudFront**, **RDS**, and **DMS** for database migration and scaling.  
 
-- 📫 You can reach me at **shairaliyamin@gmail.com**, **Phone:** +923086258694.
+---
 
-- ⚡ Fun fact: **I think of coding as solving complex puzzles, piece by piece!**
+### 🤝 Collaboration
+I’m eager to collaborate on **full stack projects** where I can contribute my skills and also learn from other developers in the community.  
 
-<br />
+---
+
+### 📬 Connect with Me
+- Email: **shairaliyamin@gmail.com**  
+- Phone: **+92 308 6258694**  
+
+---
+
+### 💼 Hire Me
+[![Hire me on Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~017ca3a044ee420a30?mp_source=share)
+
+---
+
+⚡ **Fun Fact:** I see coding as solving puzzles — one piece at a time, turning challenges into elegant solutions.  
 
 ---
 
