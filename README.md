@@ -21,7 +21,7 @@ I’m a passionate and results-driven Full Stack Developer with over 6 years of 
 ---
 
 ### 🤝 Collaboration
-I’m eager to collaborate on **full stack projects** where I can contribute my skills and also learn from other developers in the community.  
+- I’m looking forward to collaborate on ANYTHING! ༼ つ ◕_◕ ༽つ 
 
 ---
 
